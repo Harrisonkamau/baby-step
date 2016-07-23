@@ -18,3 +18,7 @@ h1 {
    left: 0;
    width: 100%;
 }
+
+.empty-div{
+  height: 60px;
+}
