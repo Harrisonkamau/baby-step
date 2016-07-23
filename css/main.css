@@ -22,3 +22,14 @@ h1 {
 .empty-div{
   height: 60px;
 }
+
+/*sidebar*/
+.navigation{
+  background: #ebeced;
+  background: -webkit-linear-gradient(left, #ebeced, #d1d5d6);
+  background: -o-linear-gradient(right, #ebeced, #d1d5d6);
+  background: -moz-linear-gradient(right, #ebeced, #d1d5d6);
+  background: linear-gradient(to right, #ebeced, #d1d5d6);
+  padding: 0;
+  padding-bottom: 200px;
+}
