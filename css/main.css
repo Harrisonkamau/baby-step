@@ -6,13 +6,13 @@
   width: 100%;
 }
 
-h3 {
+#main-h3{
    position: absolute;
    top: 40px;
    left: 0;
    width: 100%;
 }
-h1 {
+#main-h1 {
    position: absolute;
    top: 65px;
    left: 0;
@@ -77,3 +77,16 @@ i img {
     color: #36abe1 !important;
     font-weight: bold;
 }
+
+#aside {}
+.display-right {
+  padding-left: 70px;
+  padding-right: 70px;
+  font-size: 13px;
+  line-height: 18px;
+  color: #65686f;
+  }
+
+.pg-content img {
+      width: 100%;
+  }
