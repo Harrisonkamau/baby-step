@@ -131,3 +131,22 @@ i img {
   .navigation ul{
     list-style-type: none;
   }
+
+  /*sticky side bar*/
+
+  #sticky {
+    padding: 0.5ex;
+    width: 300px;
+    background-color: #333;
+    color: #fff;
+    font-size: 2em;
+    border-radius: 0.5ex;
+}
+
+#sticky.stick {
+    margin-top: 0 !important;
+    position: fixed;
+    top: 0;
+    z-index: 10000;
+    border-radius: 0 0 0.5em 0.5em;
+}
